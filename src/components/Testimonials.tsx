@@ -4,23 +4,23 @@ const Testimonials = () => {
   const testimonials = [
     {
       name: "Sandip Kumar Kar",
-      position: "SCM Head, Pitney Bowes",
+      position: "SCM Head, Pitney Bowes India",
       location: "Mumbai, India",
       content: "I've had the privilege of working closely with Rajesh Maddikonda, and I can confidently say he is a dynamic sales leader who brings both strategic vision and ground-level execution to the table. As the National Sales Head at Pitney Bowes India, Rajesh has been instrumental in shaping and driving high impact go-to-market strategies that not only accelerated revenue growth but also strengthened customer relationships across verticals. What truly sets Rajesh apart is his ability to build and inspire high performance teams.",
       rating: 5
     },
     {
-      name: "Industry Recognition",
-      position: "Star Performer Award",
-      location: "Xerox India",
-      content: "Recognized as Star Performer of the Year for 5 continuous years (2008–2012) for exceeding annual sales targets and delivering exceptional results consistently.",
+      name: "Ashima Mathur",
+      position: "Head of Marketing, Pitney Bowes India",
+      location: "Noida, India",
+      content: "I have been working with Rajesh for over 8 years, and during this time, I have witnessed his exceptional leadership as Regional Sales Head and then National Sales Head. He has a rare ability to combine strategic vision with hands-on execution, consistently driving business growth and motivating teams to achieve ambitious goals. His deep market knowledge, account relationships, client-first approach, and ability to inspire trust make him an outstanding sales leader. Beyond results, Rajesh leads with trust, integrity, collaboration, and empathy—qualities that make him not just a successful professional but also a great colleague to work with., a great team player and an asset to any organization.",
       rating: 5
     },
     {
-      name: "Achievement Highlight",
-      position: "Best Product Sales Manager",
-      location: "National Recognition",
-      content: "Honoured as Country's Best Product Sales Manager for delivering 162% of budgeted revenues in the category, demonstrating exceptional sales leadership and execution.",
+      name: "Sushant Shekhar",
+      position: "Regional Manager- East",
+      location: "Kolkata, India",
+      content: "A great leader. Excellent team person. He was always there to support whenever we needed him. 24x7. Got freedom and space to implement our ideas. Thoroughly enjoyed working under his leadership.",
       rating: 5
     }
   ];
